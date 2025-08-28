@@ -1,6 +1,6 @@
 package exerciocio1;
 import java.util.Scanner;
-
+// alteracao
 class soma {
 	public static void main (String args[]) {
 		Scanner sc = new Scanner(System.in);
