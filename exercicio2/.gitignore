@@ -1,0 +1,17 @@
+# Maven
+/target/
+
+# Legacy Eclipse output
+/bin/
+
+# Eclipse
+/.settings/
+.classpath
+.project
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
