@@ -10,20 +10,6 @@ Cada **branch** representa a solução de um exercício diferente. A estrutura p
 
 ---
 
-### 🚀 Como usar
-
-1. **Visualizar os exercícios:**
-   ```bash
-   git branch -a
-   ```
-
-2. **Acessar um exercício específico:**
-   ```bash
-   git checkout <nome-do-branch>
-   ```
-
----
-
 ### 📚 Aluno
 
 - Silas Hoffmann Reis Viana
