@@ -1,0 +1,45 @@
+# =========================
+# Node / Frontend (Vite)
+# =========================
+node_modules/
+dist/
+build/
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Cache
+.vite/
+.eslintcache
+
+# =========================
+# Java / Backend (Maven)
+# =========================
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# =========================
+# OS / Temp / Editor
+# =========================
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.iml
+.project
